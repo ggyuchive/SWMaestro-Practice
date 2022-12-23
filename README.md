@@ -15,7 +15,7 @@
 ## 1회차
 ### Algorithm (Bruteforce, Backtracking)  
 - [프로그래머스 연습세트](https://school.programmers.co.kr/learn/courses/30/parts/12230)  
-- [백준](https://www.acmicpc.net/group/workbook/view/16230/51702)
+- [백준 문제집](https://www.acmicpc.net/group/workbook/view/16230/51702)
 
 ### SQL (SELECT, GROUP BY, SUM/MAX/MIN)
 - [1번 문제](https://school.programmers.co.kr/learn/courses/30/lessons/131697)  
