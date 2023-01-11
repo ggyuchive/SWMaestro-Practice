@@ -1,0 +1,6 @@
+<!-- sql폴더안의 .sql확장자의 언어를 인식해주기 -->
+1회차/**/*.sql linguist-detectable=true
+2회차/**/*.sql linguist-detectable=true
+3회차/**/*.sql linguist-detectable=true
+<!-- 4회차/**/*.sql linguist-detectable=true -->
+<!-- 5회차/**/*.sql linguist-detectable=true -->
