@@ -29,9 +29,21 @@
 - [프로그래머스 연습세트](https://school.programmers.co.kr/learn/courses/30/parts/12077)  
 - [백준 문제집](https://www.acmicpc.net/group/workbook/view/16230/51839)
 
-### SQL (SELECT, GROUP BY, SUM/MAX/MIN)
+### SQL (SELECT, GROUP BY, JOIN)
 - [1번 문제](https://school.programmers.co.kr/learn/courses/30/lessons/133024)  
 - [2번 문제](https://school.programmers.co.kr/learn/courses/30/lessons/133025)  
 - [3번 문제](https://school.programmers.co.kr/learn/courses/30/lessons/133026)  
 - [4번 문제](https://school.programmers.co.kr/learn/courses/30/lessons/133027)  
+---
+
+## 3회차
+### Algorithm (BFS, DFS)  
+- [프로그래머스 연습세트](https://school.programmers.co.kr/learn/courses/30/parts/12421)  
+- [백준 문제집](https://www.acmicpc.net/group/workbook/view/16230/52295)
+
+### SQL (SELECT, GROUP BY, JOIN)
+- [1번 문제](https://school.programmers.co.kr/learn/courses/30/lessons/144853)  
+- [2번 문제](https://school.programmers.co.kr/learn/courses/30/lessons/144854)  
+- [3번 문제](https://school.programmers.co.kr/learn/courses/30/lessons/144855)  
+- [4번 문제](https://school.programmers.co.kr/learn/courses/30/lessons/144856)  
 ---
