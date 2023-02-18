@@ -1,6 +1,6 @@
 ## 8회차
 ### Algorithm (DSU/스위핑)  
-- [백준 문제집](https://www.acmicpc.net/group/workbook/view/16230/53371)
+- [백준 문제집](https://www.acmicpc.net/group/workbook/view/16230/54065)
 
 ### SQL
 - [1번 문제](https://school.programmers.co.kr/learn/courses/30/lessons/157343)  
