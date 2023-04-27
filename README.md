@@ -1,5 +1,3 @@
-# SWMaestro-Practice
-
 ## 사용 플랫폼
 - Algorithm  
 [Baekjoon Online Judge](https://www.acmicpc.net/)  
